@@ -4,7 +4,7 @@
 
 # About
 
-This is an example of how you can have _markdown_ in page content!
+<!-- This is an example of how you can have _markdown_ in page content!
 
 - How
 - **Cool**
@@ -16,6 +16,7 @@ Anyway, you can find this file here:
 
 ```
 src/routes/about/+page.md
-```
+``` -->
+Nothing here yet...
 
 Here's the [home link](/) if you wanna go back.

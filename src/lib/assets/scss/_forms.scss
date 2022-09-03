@@ -63,3 +63,7 @@ fieldset {
 ::placeholder {
 	color: var(--dark);
 }
+
+.formfield * {
+	vertical-align: middle;
+}

@@ -17,5 +17,8 @@
 		</ul>
 	</nav>
 
-	<p>&copy;{new Date().getFullYear()} {siteAuthor}</p>
+	<p>
+		&copy;{new Date().getFullYear()} {siteAuthor}
+	<br/>
+	All imagery and other IP belong to <a href="https://legendstory.com">Legend Story Studios®.</a></p>
 </footer>

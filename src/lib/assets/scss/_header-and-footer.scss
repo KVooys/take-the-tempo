@@ -34,7 +34,10 @@ footer {
 
 header {
 	background: var(--lightAccent);
-	color: var(--darker);
+	background-image: url("../images/misteria-banner.jpg");
+	height:500px;
+	// background-position: center;
+	color: var(--background);
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -89,7 +92,7 @@ header {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		background: var(--darker);
+		background: var(--background);
 		color: var(--paper);
 		transition: all .25s cubic-bezier(0.785, 0.135, 0.15, 0.86);
 
@@ -128,6 +131,10 @@ header {
 			width: 100%;
 			text-align: center;
 			margin-bottom: calc(.2rem + 2vh);
+		}
+
+		ul li a {
+			color: var(--background);
 		}
 
 		@media (min-width: vars.$smMin) {

@@ -34,6 +34,7 @@ footer {
 
 header {
 	background: var(--lightAccent);
+	background-position: center;
 	background-image: url("/images/misteria-banner.jpg");
 	max-height:500px;
 	color: var(--paper);
@@ -92,7 +93,9 @@ header {
 		justify-content: center;
 		align-items: center;
 		background: var(--background);
+		background-position: center;
 		background-image: url("/images/misteria-banner.jpg");
+		background-repeat: no-repeat;
 		color: var(--paper);
 		transition: all .25s cubic-bezier(0.785, 0.135, 0.15, 0.86);
 

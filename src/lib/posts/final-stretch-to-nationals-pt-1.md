@@ -14,7 +14,7 @@ excerpt: Let's take a closer look at the deck options for Nationals 2022.
 
 ## The road left behind
 
-It has been a chaotic couple of weeks for FABTCG. First, the Pro Tour Lille had a pretty diverse field but an all Briar top 4. Literally the day after at the Calling Lille, the biggest boogieman of the CC format, Prism, finally made Living Legend, being held back at 998 points for what feels like forever.
+It has been a chaotic couple of weeks for FABTCG. First, the Pro Tour Lille had a pretty diverse field but an all Briar top 4. Literally the day after at the Calling Lille, the biggest boogieman of the Classic Constructed format, Prism, finally made Living Legend, being held back at 998 points for what feels like forever.
 
 Now with Nationals only days away for most of us, it is time to analyze the decks that might do well in this shaken up field.
 
@@ -30,7 +30,7 @@ This article is part 1 of a series and will be covering the following decks:
 
 [Sample decklist](https://fabdb.net/decks/MlOqjPlg)
 
-Briar has really seen it all at this point. They have withstood multiple bannings, an errata of the Embodiment of Earth ability, and multiple format-warping expansion sets, and yet never even left the higher tiers of the metagame. In fact, she dominated the most recent Pro Tour, being both the most played CC deck and the one with the best results. This makes Briar a very good and safe choice for Nationals.
+Briar has really seen it all at this point. They have withstood multiple bannings, an errata of the Embodiment of Earth ability, and multiple format-warping expansion sets, and yet never even left the higher tiers of the metagame. In fact, Briar dominated the most recent Pro Tour, being both the most played CC deck and the one with the best results. This makes Briar a very good and safe choice for Nationals.
 
 For those who have been out of the loop for the past year: Briar is an aggro-combo deck, which looks to abuse the +3 attack buff of Channel Mount Heroic combined with a lot of 0-cost attacks that have or can gain Go Again, allowing for massive 20+ damage turns. Even without Channel Mount Heroic in play, Briar can still apply pressure with the play pattern of non-attack -> attack -> Rosetta Thorn. This makes the deck very reliable.
 
@@ -45,7 +45,7 @@ It remains to be seen whether Briar will have any really bad matchups in the new
 
 While Oldhim failed to put anyone in the Pro Tour top 8, there were 4 of them in the top 16. One of the reasons for this was probably that the Prism matchup is absolutely, soul-crushingly awful. Now that Prism is gone, Oldhim might finally get some time in the sun.
 
-In a new, unsolved metagame, people often reach for straightforward, proactive decks, and while Oldhim is definitely not one of those decks, it has a lot of tools to beat those strategies. With Crown of Seeds and Rampart of the Ram’s Head, Oldhim has such good recurring defensive potential that they can simply fatigue people out of the game if they stumble too much. Winter's Wail remains one of the most efficient weapons in the game, so Oldhim will always have something to do.
+In a new, unsolved metagame, people often reach for straightforward, proactive decks, and while Oldhim is definitely not one of those decks, it has a lot of tools to beat those strategies. With Crown of Seeds and Rampart of the Ram’s Head, Oldhim has such good recurring defensive potential that they can simply fatigue people out of the game if the opponents fool around too much. Winter's Wail remains one of the most efficient weapons in the game, so Oldhim will always have something to do.
 
 There are many ways to build Oldhim, ranging from full aggro to full fatigue, so it's unlikely that the optimal build will be found before Nationals. It's probably safest to not go full fatigue right now, since the likelihood of draws is pretty high, which would be disastrous for your top 8 chances.
 
@@ -65,4 +65,9 @@ Because of that nature, it's hard for a deck to truly be good against Dash, maki
 
 ## Conclusion
 
-So far, we've already seen three strong decks that will surely be showcased at the top tables of Nationals. The next iteration of this series will include the Uprising heroes: Fai, Dromai and Iyslander. Until then!
+So far, we've seen three strong decks that will surely be showcased at the top tables of Nationals. The next iteration of this series will include the Uprising heroes: 
+- Fai 
+- Dromai
+- Iyslander
+
+Until then!

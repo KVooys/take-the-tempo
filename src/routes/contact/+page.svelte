@@ -5,7 +5,7 @@
 
 <h1>Contact</h1>
 
-This site was made by Kurt Vooys. You can get in touch with him here.
+This site was made by Kurt Vooys. You can get in touch with me here.
 
 <form name="take-the-tempo-contact-form" method="POST" data-netlify="true">
 	<p>

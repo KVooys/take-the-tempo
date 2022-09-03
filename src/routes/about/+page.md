@@ -4,19 +4,9 @@
 
 # About
 
-<!-- This is an example of how you can have _markdown_ in page content!
 
-- How
-- **Cool**
-- Is _that_!?
+This site is made for competitive FABTCG enthusiasts like myself. Everything on here is purely my opinion and should not be taken too seriously.
 
-If you like, you can also import markdown into any Svelte page.
-
-Anyway, you can find this file here:
-
-```
-src/routes/about/+page.md
-``` -->
-Nothing here yet...
+The site is built with a static site generator using the [SvelteKit](https://kit.svelte.dev/) framework.
 
 Here's the [home link](/) if you wanna go back.

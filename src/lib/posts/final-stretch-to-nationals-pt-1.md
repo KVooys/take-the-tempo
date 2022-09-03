@@ -5,7 +5,7 @@ updated: "2022-09-03"
 categories: 
   - "fabtcg"
   - "nationals"
-  - "classic-constructed"
+  - "classic constructed"
 coverImage: "/images/nationals2022.jpg"
 coverWidth: 16
 coverHeight: 9

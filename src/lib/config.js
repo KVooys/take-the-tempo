@@ -8,7 +8,7 @@
 export const siteTitle = 'Take the Tempo'
 export const siteDescription = 'a FABTCG blog'
 export const siteURL = 'takethetempo.com'
-export const siteLink = 'https://www/takethetempo.com'
+export const siteLink = 'https://www.takethetempo.com'
 export const siteAuthor = 'Kurt Vooys'
 
 // Controls how many posts are shown per page on the main blog index pages
